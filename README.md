@@ -1,7 +1,7 @@
 # Piano
 A fun browser-based piano where you can “Play Loud, Debug Later!” 💻🔥
 
-🎹 Piano.js — Play Loud, Debug Later 🎵🔥
+🎹 Piano — Play Loud, Debug Later 🎵🔥
 
 A fun, interactive JavaScript Piano built entirely with vanilla HTML, CSS, and JS — no frameworks!
 Click or press your keyboard keys (A–L, E–P) to play sounds in real time.
